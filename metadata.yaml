@@ -1,0 +1,34 @@
+_repo: The-Emily-Emmins-Papers_52662
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Meyer, Josephine A. (Josephine Amelia)
+    alias: Meyer, J. A. (Josephine Amelia)
+    birthdate: 1884
+    gutenberg_agent_id: '46986'
+    url: http://www.gutenberg.org/2009/agents/46986
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2016-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52662'
+  lccn: 07039016
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: The Emily Emmins Papers
+url: http://www.gutenberg.org/ebooks/52662
