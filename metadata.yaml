@@ -1,5 +1,5 @@
 _repo: The-Emily-Emmins-Papers_52662
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Meyer, Josephine A. (Josephine Amelia)
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1884
     gutenberg_agent_id: '46986'
     url: http://www.gutenberg.org/2009/agents/46986
+covers:
+- cover_type: archival
+  image_path: 52662-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Carolyn
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52662#The-Emily-Emmins-Papers
 gutenberg_issued: '2016-07-28'
 gutenberg_type: Text
 identifiers:
